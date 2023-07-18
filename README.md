@@ -18,7 +18,9 @@
 
  ## Проекты
 
- 1. [Сетевой чат](https://github.com/KarineSim/course-project-chat)
- 2. [Сервис перевода денег](https://github.com/KarineSim/moneyTransferService)
- 3. [Облачное хранилище](https://github.com/KarineSim/cloud-storage)
- 4. [Интернет-магазин товаров](https://github.com/DariaRuzanova/Patterns_SOLID/tree/main)
+ 1. [Облачное хранилище](https://github.com/DariaRuzanova/cloudStorage)
+ 2. [Сервис перевода денег](https://github.com/DariaRuzanova/transferMoneyService)
+ 3. [Сетевой чат](https://github.com/DariaRuzanova/CourseProjectNetworkChat/tree/main)
+ 4. [CRUD-сервер](https://github.com/DariaRuzanova/CRUD/tree/main)
+ 5. [Коллекции для многопоточной работы](https://github.com/DariaRuzanova/Analizer/tree/main)
+ 6. [Интернет-магазин товаров](https://github.com/DariaRuzanova/Patterns_SOLID/tree/main)
