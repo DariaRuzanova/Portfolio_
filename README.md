@@ -11,7 +11,7 @@
   <img src="https://github.com/DariaRuzanova/Portfolio_/blob/main/images/junit5Log.webp" width="50" height="50" title="JUnit">&nbsp
   <img src="https://github.com/DariaRuzanova/Portfolio_/blob/main/images/spring-original-wordmark.svg" width="50" height="50" title="Spring">&nbsp
   <img src="https://github.com/DariaRuzanova/Portfolio_/blob/main/images/docker-original-wordmark.svg" width="50" height="50" title="Docker">&nbsp
-  <img src="https://github.com/DariaRuzanova/Portfolio_/blob/main/images/Hibernate.jpg" width="50" height="50" title="Hibernate">&nbsp
+  <img src="https://github.com/DariaRuzanova/Portfolio_/blob/main/images/Hibernate.jpg" width="70" height="50" title="Hibernate">&nbsp
   <img src="https://github.com/DariaRuzanova/Portfolio_/blob/main/images/postgresql-original-wordmark.svg" width="50" height="50" title="PostgreSQL">&nbsp
 
  IntelliJ IDEA, Maven, Gradle, Docker, Docker Compose, Git, Postman, JUnit, Mockito, Spring, Spring Boot, Spring Data, Spring Security, Hibernate, MySQL, PostgreSQL
