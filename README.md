@@ -30,5 +30,7 @@ tel: 89608261174
 
 ## Сертификаты
  июль 2023 , Java-разработчик, Диплом профессиональной переподготовки, Нетология
+ <div>
+  <img src="https://github.com/DariaRuzanova/Portfolio_/blob/main/images/certificate.jpg" width="300" height="220" title="certificate_netology">&nbsp
    
 
