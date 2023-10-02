@@ -21,12 +21,13 @@ tel: 89608261174
 
  ## Проекты
 
- 1. [Облачное хранилище](https://github.com/DariaRuzanova/cloudStorage)
- 2. [Сервис перевода денег](https://github.com/DariaRuzanova/transferMoneyService)
- 3. [Сетевой чат](https://github.com/DariaRuzanova/CourseProjectNetworkChat/tree/main)
- 4. [CRUD-сервер](https://github.com/DariaRuzanova/CRUD/tree/main)
- 5. [Коллекции для многопоточной работы](https://github.com/DariaRuzanova/Analizer/tree/main)
- 6. [Интернет-магазин товаров](https://github.com/DariaRuzanova/Patterns_SOLID/tree/main)
+ 1. [Расписание]()
+ 2. [Облачное хранилище](https://github.com/DariaRuzanova/cloudStorage)
+ 3. [Сервис перевода денег](https://github.com/DariaRuzanova/transferMoneyService)
+ 4. [Сетевой чат](https://github.com/DariaRuzanova/CourseProjectNetworkChat/tree/main)
+ 5. [CRUD-сервер](https://github.com/DariaRuzanova/CRUD/tree/main)
+ 6. [Коллекции для многопоточной работы](https://github.com/DariaRuzanova/Analizer/tree/main)
+ 7. [Интернет-магазин товаров](https://github.com/DariaRuzanova/Patterns_SOLID/tree/main)
 
 ## Сертификаты
  июль 2023 , Java-разработчик, Диплом профессиональной переподготовки, Нетология
