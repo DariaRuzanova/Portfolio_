@@ -21,7 +21,7 @@ tel: 89608261174
 
  ## Проекты
 
- 1. [Расписание]()
+ 1. [Расписание](https://github.com/DariaRuzanova/Schedule)
  2. [Облачное хранилище](https://github.com/DariaRuzanova/cloudStorage)
  3. [Сервис перевода денег](https://github.com/DariaRuzanova/transferMoneyService)
  4. [Сетевой чат](https://github.com/DariaRuzanova/CourseProjectNetworkChat/tree/main)
