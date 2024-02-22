@@ -17,7 +17,7 @@ tel: 89608261174
   <img src="https://github.com/DariaRuzanova/Portfolio_/blob/main/images/Hibernate.jpg" width="120" height="50" title="Hibernate">&nbsp
   <img src="https://github.com/DariaRuzanova/Portfolio_/blob/main/images/postgresql-original-wordmark.svg" width="50" height="50" title="PostgreSQL">&nbsp
 
- IntelliJ IDEA, Maven, Gradle, Docker, Git, JUnit, Mockito, Spring, Spring Boot, Spring Data, Spring Security, Hibernate, PostgreSQL
+ IntelliJ IDEA, Maven, Gradle, Docker, Git, JUnit, Mockito, Spring, Spring Boot, Spring Data, Spring Security, Hibernate, PostgreSQL, C#, LINQ, Python.
 
  ## Проекты
 
